@@ -23,4 +23,7 @@ public class JavaConsoleApplication {
         System.out.println("Hola Mundo");
     }
     
+    public static void TERCERCOMMIT(){
+        System.out.println("Hola Mundo");
+    }
 }
