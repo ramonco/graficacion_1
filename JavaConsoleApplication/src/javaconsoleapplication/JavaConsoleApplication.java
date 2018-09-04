@@ -23,4 +23,8 @@ public class JavaConsoleApplication {
         System.out.println("Hola Mundo");
     }
     
+    public static void segundoCommit(){
+        System.out.println("Hola mundo");
+    }
+    
 }
