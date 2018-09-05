@@ -30,4 +30,8 @@ public class JavaConsoleApplication {
     public static void Saludo2 (){
         System.out.println("Que onda");
     }
+    
+    public static void Saludo3 (){
+        System.out.println("Hola!!");
+    }
 }
