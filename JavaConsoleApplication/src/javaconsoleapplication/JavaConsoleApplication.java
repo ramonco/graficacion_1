@@ -45,4 +45,10 @@ public class JavaConsoleApplication {
     System.out.println("Soy el dick");
         
     }
+    
+    public static void dihola2 (){
+    
+    System.out.println("Soy el dick2");
+        
+    }
 }
