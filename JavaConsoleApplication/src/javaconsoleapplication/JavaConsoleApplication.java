@@ -26,4 +26,8 @@ public class JavaConsoleApplication {
     public static void TERCERCOMMIT(){
         System.out.println("Hola Mundo");
     }
+    
+    public static void Saludo2 (){
+        System.out.println("Que onda");
+    }
 }
